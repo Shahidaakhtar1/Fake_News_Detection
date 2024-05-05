@@ -31,3 +31,9 @@ https://www.kaggle.com/code/therealsampat/fake-news-detection/input
 
 As you can see in this kaggle repository they used different machine learning models for this work but in our work we used LSTM for features extraction and those features then fed to a dense neural network for detection.
 
+
+**Architecture Diagram**
+
+
+![Arch](https://github.com/Shahidaakhtar1/Fake_News_Detection/assets/168454929/e0b38835-6377-47eb-af9d-468b3c42c2d7)
+
