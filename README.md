@@ -7,9 +7,15 @@ The extracted features are concatenated with the input data and passed through a
 
 
 Python
+
 Flask
+
 TensorFlow
+
 Transformers
+
 Pandas
+
 NumPy
+
 scikit-learn
