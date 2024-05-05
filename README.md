@@ -4,6 +4,8 @@ The extracted features are concatenated with the input data and passed through a
 
 
 #**Technologies Used**
+
+
 Python
 Flask
 TensorFlow
